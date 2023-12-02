@@ -1,12 +1,3 @@
-
-```markdown
-```
-  ______   __   __     ______     ______     ______     __  __     __     __     ______
- /\  == \ /\ \ / /    /\  ___\   /\  ___\   /\  ___\   /\ \/ /    /\ \   /\ \   /\__  _\
- \ \  _-/ \ \ \'/     \ \  __\   \ \ \____  \ \___  \  \ \  _"-.  \ \ \  \ \ \  \/_/\ \/
-  \ \_\    \ \__|      \ \_____\  \ \_____\  \/\_____\  \ \_\ \_\  \ \_\  \ \_\    \ \_\
-   \/_/     \/_/        \/_____/   \/_____/   \/_____/   \/_/\/_/   \/_/   \/_/     \/_/
-
 # Embedded Systems Security Framework (ESSEF)
 
 ESSEF is a framework proposed to support the selection of secure solutions in embedded systems. The process begins with the selection of one or more security functional requirements, including Integrity, Authenticity, Confidentiality, and Availability. These requirements, commonly found in various studies and standardized by ISO 27034, serve as a foundation for the framework.
